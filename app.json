@@ -1,0 +1,15 @@
+{
+  "name": "heroku-yurasid-testapp",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
